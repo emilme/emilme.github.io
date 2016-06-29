@@ -9,7 +9,6 @@ nav ul, footer ul {
     font-weight: 300;
     padding: 0px;
     list-style: none;
-    font-weight: bold;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -21,7 +20,7 @@ a {
 }
 a:hover {
     text-decoration: none;
-    color: #33CCCC;
+    color: #26619c;
 }
 h1 {
     font-size: 3em;
